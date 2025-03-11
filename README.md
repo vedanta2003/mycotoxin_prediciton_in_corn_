@@ -9,7 +9,7 @@ This repository contains a machine learning project focused on predicting DON (D
 |------------|-------------|
 | **app.py** | Streamlit app for predicting DON concentration in new corn samples based on uploaded CSV files. |
 | **best_nn_model.h5** | Best-trained neural network model saved in HDF5 format. |
-| **comparison_table.pdf** | A comparison of performance metrics (MAE, RMSE, R²) between the Random Forest and Neural Network models. |
+| **comparison_table.png** | A comparison table of performance metrics (MAE, RMSE, R²) between the Random Forest and Neural Network models. |
 | **generate_testfile.py** | Python script to generate random test CSV files from the original dataset for testing purposes. |
 | **main2.ipynb** | Jupyter notebook containing data preprocessing, model training, evaluation, and visualization. |
 | **pca.png** | PCA plot showing dimensionality reduction and variance explained by components. |
