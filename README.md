@@ -23,7 +23,7 @@ This repository contains a machine learning project focused on predicting DON (D
 ## 🚀 **Setup Instructions**  
 ### 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/corn-don-prediction.git
+git clone https://github.com/vedanta2003/mycotoxin_prediciton_in_corn_.git
 cd corn-don-prediction
 ```
 
