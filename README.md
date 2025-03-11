@@ -1,8 +1,4 @@
-Here's a **README.md** draft for your repo based on the files shown in the screenshot and the project details:
 
----
-
-### **README.md**  
 # 🌽 Corn DON Concentration Prediction  
 This repository contains a machine learning project focused on predicting DON (Deoxynivalenol) concentration in corn samples using spectral data. The project includes both a **Random Forest model** and a **Neural Network model** trained and evaluated for performance comparison.
 
@@ -93,13 +89,5 @@ python generate_testfile.py
 
 ---
 
-## 📜 **License**  
-This project is licensed under the MIT License.  
-
----
-
 ### ⭐ **If you found this helpful, please give it a star!** 🌟
 
----
-
-How does this look? 😎
